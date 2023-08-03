@@ -1,5 +1,5 @@
 # Sorting Visualizer
-Sorting Visualizer is a web application for visualizing a bunch of different sorting algorithms with time and space complexity of algorithm also being visualized also the array is randomly generated.
+Sorting Visualizer is a web application for visualizing a bunch of different sorting algorithms with time and space complexity of algorithm.
 
 Sorting algorithms Implemented are:
 Bubble sort,
